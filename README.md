@@ -126,8 +126,6 @@ It focuses on:
 
 ## 🔮 Future Enhancements
 
-* Dark mode support
-* Test case execution
 * Performance analysis
 * Additional language support
 * Enhanced editor features
