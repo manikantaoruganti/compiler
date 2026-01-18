@@ -71,11 +71,37 @@ It focuses on:
 ---
 
 ## 📌 Supported Languages
-
-* C / C++
-* Java
 * Python
+
+* C++
+
+* C
+
+* Java
+
 * JavaScript
+
+* TypeScript
+
+* Rust
+
+* C#
+
+* Kotlin
+
+* Go
+
+* Swift
+
+* Ruby
+
+* PHP
+
+* R
+
+* Scala
+
+* SQL
 
 ---
 
